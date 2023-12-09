@@ -38,11 +38,11 @@ function validateInput(text) {
 function createLogo(shape, color, text) {
     switch (shape.toLowerCase()) {
         case 'triangle':
-            return new shapes.triangle(color, text);
+            return new shapes.Triangle(color, text);
         case 'square':
-            return new shapes.square(color, text);
+            return new shapes.Square(color, text);
         case 'circle':
-            return new shapes.circle(color, text);
+            return new shapes.Circle(color, text);
         default:
             throw new Error('Invalid shape');
     }
