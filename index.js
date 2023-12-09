@@ -1,5 +1,5 @@
 const inquirer = require('inquirer');
-const shapes = require('./lib/shape.js');
+const shapes = require('./lib/shapes.js');
 
 function init() {
     inquirer
