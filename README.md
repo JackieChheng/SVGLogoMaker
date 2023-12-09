@@ -73,15 +73,6 @@
 
 
 
-### Built With
-
-* [![Next][Next.js]][Next-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
